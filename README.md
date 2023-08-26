@@ -1,7 +1,6 @@
 ## Prazer, me chamo Victor Rabello! 😁
 
-- 🤞 Estou Open-To-Work em busca de uma oportunidade como Desenvolvedor Front-End Jr.
-- ✔ Possuo conhecimento em: React, HTML, CSS, JavaScript, NodeJS.
+- 🤞 Dev Back-End.
 
 <div align="center">
   <a href="https://github.com/VictorRabello97">
